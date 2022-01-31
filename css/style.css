@@ -1,0 +1,27 @@
+.c{
+border-style:solid;
+  height: 80px;
+  width: 70px;
+ border-radius: 50%;
+ background-color:white;
+}
+.sfondo{
+    background-color:whitesmoke;
+}
+.titolo{
+
+    color: blue;
+    text-align: center; 
+    margin-top:37px; 
+    font-size: 55px;
+   
+}
+.btn-blue{
+    background-color:darkblue;
+    color: white;
+    margin-top:15px;
+}
+.b{
+   background-color:darkblue;
+    color: white;  
+}
